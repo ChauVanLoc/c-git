@@ -1,1 +1,1 @@
-test pull local reposiraty-2
+test pull local reposiraty-2-2
