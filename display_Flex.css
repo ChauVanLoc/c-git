@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.toNhat{
+	width: 930px;
+	height: 290px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+a.bentrai{
+	background-image: url(1.png);
+	width: 460px;
+	height: 290px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-decoration: none;
+	color: white;
+}
+.nd{
+	width: 198px;
+	height: 51px;
+	background-color: black;
+	position: relative;
+}
+span {
+	position: absolute;
+	top: 25%;left: 27%;
+}
+a.bentrai.benphai1 {
+	background-image: url(2.jpg);
+	width: 460px;
+	height: 185px;
+}
+a.bentrai.benphai2 {
+	background-image: url(3.jpg);
+	width: 460px;
+	height: 185px;
+}
+.nd2{
+
+}
